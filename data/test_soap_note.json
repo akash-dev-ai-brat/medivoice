@@ -1,0 +1,66 @@
+{
+  "subjective": {
+    "chief_complaint": "Fever for the past 3 days along with severe headache and mild cough",
+    "history_of_present_illness": "The patient has been experiencing fever, severe headache, and mild cough for the past 3 days, with a little nausea but no vomiting",
+    "past_medical_history": "Not mentioned",
+    "medications": [
+      "paracetamol 500mg twice a day"
+    ],
+    "allergies": "No known allergies",
+    "review_of_systems": "Not mentioned"
+  },
+  "objective": {
+    "vitals": {
+      "temperature": "101.2\u00b0F",
+      "blood_pressure": "120/80 mmHg",
+      "pulse": "88 bpm",
+      "spo2": "Not mentioned",
+      "weight": "Not mentioned"
+    },
+    "physical_examination": "Not mentioned",
+    "investigations": "Not mentioned"
+  },
+  "assessment": {
+    "primary_diagnosis": "Viral fever",
+    "differential_diagnosis": [
+      "Not mentioned"
+    ],
+    "icd10_codes": [
+      {
+        "code": "R50.9",
+        "description": "Fever unspecified"
+      },
+      {
+        "code": "R05.9",
+        "description": "Cough unspecified"
+      },
+      {
+        "code": "R51.9",
+        "description": "Headache unspecified"
+      },
+      {
+        "code": "R11.0",
+        "description": "Nausea"
+      }
+    ],
+    "severity": "Not mentioned",
+    "clinical_impression": "The patient is likely suffering from viral fever"
+  },
+  "plan": {
+    "medications": [
+      "Not specified, but will be prescribed"
+    ],
+    "investigations_ordered": [
+      "Not mentioned"
+    ],
+    "referrals": "Not mentioned",
+    "follow_up": "Come back if fever persists beyond 5 days",
+    "patient_education": "Not mentioned",
+    "precautions": "Not mentioned"
+  },
+  "metadata": {
+    "note_date": "2026-06-04",
+    "note_time": "12:21",
+    "generated_by": "MediVoice AI"
+  }
+}
