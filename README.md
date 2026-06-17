@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/screenshot-hero.png" alt="MediVoice — AI Clinical Scribe" width="800"/>
 
 # 🩺 MediVoice
 
@@ -242,13 +241,30 @@ Step 5 — Output
 
 ## 📸 Screenshots <a name="screenshots"></a>
 
-> 📌 **Action item:** Upload screenshots to `assets/` and replace these placeholders.
+<p align="center">
+  <img src="assets/Screenshot 2026-06-13 155406.png" alt="MediVoice Dashboard" width="800"/>
+  <br/><em>Main Dashboard</em>
+</p>
 
-```markdown
-![Dashboard](assets/screenshot1-dashboard.png)
-![SOAP Note Output](assets/screenshot2-soap-note.png)
-![PDF Export](assets/screenshot3-pdf-export.png)
-```
+<p align="center">
+  <img src="assets/Screenshot 2026-06-13 155922.png" alt="Transcript Input" width="800"/>
+  <br/><em>Transcript Input Interface</em>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-06-13 160021.png" alt="Clinical NLP Extraction" width="800"/>
+  <br/><em>Clinical NLP Entity Extraction</em>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-06-13 160059.png" alt="SOAP Note Output" width="800"/>
+  <br/><em>Generated SOAP Note with ICD-10 Codes</em>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot 2026-06-13 160155.png" alt="PDF Export" width="800"/>
+  <br/><em>PDF Export & Session History</em>
+</p>
 
 ---
 
